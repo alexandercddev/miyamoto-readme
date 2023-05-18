@@ -1,7 +1,13 @@
 
 # Sistema para la gestión de incidentes y evaluaciones de daños estructurales
 
-Este sistema cuenta con interfaces como inicio de sesión, recuperación de sesión, confirmación de contraseña, tras haber iniciado sesión, el usuario podrá acceder a la tabla de incidentes para seleccionar un incidente y podrá crear evaluaciones, una vez estando en el incidente podrá ver un menú lateral con las opciones de dashboard, evaluaciones, usuarios, configuraciones (países, estados, municipios, zonas sísmicas), podrá ver su perfil y cambiar su foto de perfil.
+La aplicación cuenta con una interfaz de usuario sencilla e intuitiva, en la cual se pueden agregar datos de los sismos, tales como: fecha, hora, magnitud, epicentro y ubicación. De igual manera, se pueden ingresar datos de las edificaciones que han sufrido daños por el sismo, tales como: dirección, tipo de edificio, número de plantas, entre otros.
+
+Gracias a la herramienta de geolocalización, se pueden ubicar las edificaciones registradas en el mapa de la zona afectada por el sismo, lo cual facilita la tarea de monitoreo y seguimiento de los daños. Los pines que se muestran en el mapa tienen diferentes colores y formas para representar los diferentes niveles de daño: verde para edificios seguros, amarillo para edificios restringidos y rojo para edificios inseguros.
+
+Los usuarios pueden acceder a la aplicación desde cualquier dispositivo móvil o computadora con acceso a internet, lo cual permite una comunicación eficiente y fluida entre el equipo de monitoreo y la población afectada. Además, se pueden generar reportes que incluyan estadísticas sobre los daños registrados, facilitando la toma de decisiones por parte de las autoridades.
+
+En conclusión, esta aplicación web se presenta como una excelente herramienta para monitorear y registrar los daños estructurales que sufren las edificaciones ante eventos sísmicos, permitiendo una adecuada gestión de la información y una rápida respuesta por parte de las autoridades y equipos de emergencia.
 
 ## Demo
 
