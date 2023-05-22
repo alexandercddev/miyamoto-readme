@@ -9,6 +9,9 @@ Los usuarios pueden acceder a la aplicación desde cualquier dispositivo móvil 
 
 En conclusión, esta aplicación web se presenta como una excelente herramienta para monitorear y registrar los daños estructurales que sufren las edificaciones ante eventos sísmicos, permitiendo una adecuada gestión de la información y una rápida respuesta por parte de las autoridades y equipos de emergencia.
 
+
+
+
 ## Demo
 
 [VIDEO DEMO](https://1drv.ms/v/s!AkSiVfLGAjgsg-oPAXknbYKTc_mRFw?e=GfypeK)
