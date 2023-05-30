@@ -18,17 +18,18 @@ En conclusión, esta aplicación web se presenta como una excelente herramienta 
 
 ![Inicio de sesión](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/login.jpg)
 
-![Inicidentes](https://dsm01pap008files.storage.live.com/y4mqHWji2TXhD2hqkRR9yjykJWCGxm0HMLErjLtC1rIuyn1rT2bvnZe02J80vfecVYcL2Hu0ilOwTY_lzEImo3LdgEAEo6jjsKBsmaj8-Af55f7AlLx0HunOinp643v0XN1vkd6YVHbH7G6CCQiTRGIbtz_bV4IdV1gwy4SsKT-db4TFdVaD8WmzrG1Opp6cIJI0pQojw4YIwLoLnHC9IOQcKcFuRy4VRrkHIgTVrAl5aU?encodeFailures=1&width=1623&height=913)
+![Inicidentes](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/incidentes.jpg)
 
-![Dashboard](https://dsm01pap008files.storage.live.com/y4m6Sv7QyXxJIKFR6zJ5ha-Jw6XUZAV3AsAvnHZXK5uSG3mVuisdanZVwTwjuntUbexmSfKoJpjTZ4vt4TVpzocwsp7Tkjh0fHIIe_Y6rO1frZYNyshq5kIjvNT2n5-i3PB_b9g70sdSXLU98RPEyoyxnoawyiF3kM4CRJbqFJ0vK8Ljfl1IYEAdiGD7MKFqZm3o2s-RqUHqffCdVE55CpT4ytHLCPfKLWjQdkgi4b98yQ?encodeFailures=1&width=1623&height=913)
+![Dashboard](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/dashboard.jpg)
 
-![Dashboard Pin](https://dsm01pap008files.storage.live.com/y4mlmw9UuYlaB3v8qQPhYNKmGnf13mjaElj4RZXzdGz1FUNyv5JTS0-85Rf_3x5zCwr9lj_YTLtqkMd5LQ7CH8h-e366hlS1MN9Zpdyuieu3nSLaEykTBYVVNEVsv6D4_XxZ6q_43Q1xyHgeDYJg-Sw2uWLrrNAZNnbl8JCJmF7XwUOQXdLWwpX8dk8rUBxKMwb7KUt8arC53KJf3arqj3DW_8J_RXyvnxbBBbABUuajgc?encodeFailures=1&width=1623&height=913)
+![Dashboard Pin](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/dashboard-click-hover-pin.jpg)
 
-![Evaluaciones](https://dsm01pap008files.storage.live.com/y4mThyGuYaefugKgb5Ub2wYfv42s9_v3gysYGb8db8XRR2KPsapfJLa_qN4ukcHkIrImNkG848Pmn9SsXTKakRe1BjAmgUJR_skiOAoAeC0zT2cjA8U3-siiNJT2AqFTEHci2s4uvrJNKkcli5YWynX7WuS6QrsfUwbBXzNB5KNY0K-C8XPzRf6stqYjHJd0LCZZJe-D086zFi2D6SEFkTID5nnHGkA9vgC_f4yZnIU6L8?encodeFailures=1&width=1623&height=913)
+![Evaluaciones](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/evaluaciones.jpg)
 
-![Usuarios](https://dsm01pap008files.storage.live.com/y4mFGBZvogXOxSgZhmVOQHCxMkGUo84o8mldelShrVJml9b690aYExCWiHybCsTKaH0y-3maw_7CX7ftQNZre9QJdR6oiPQy7VhBk55spS6LAuW-nXXZ30AmkKt3Kzfbb8szuI8fwem5hlBsS3PfTZdNzU4nHgyKYU5KoaLRXITRClB_Aj2S3XYO6qBLc78fRKIq5ZoNWX6bnC2iM9lFAH3Wm9JUC0P_iXmjG78aILWY38?encodeFailures=1&width=1623&height=913)
+![Usuarios](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/usuarios.jpg)
 
-![Configuraciones](https://dsm01pap008files.storage.live.com/y4mWsuCfrc4psk5PfK7u-xEFRaNYb1X_1lPR_vqpUgTYrpwgxosMwEpyXkp0HwxM-ixq8qXoSbf5Ri5ngrfHiHOsLOkAfPzu8Si1ImPRhohuuSPV9VIU9IfsoKB1-8sLaPch-_4Y7T760VhMh_JKSkKc8Aauil0KmGTvzzVNAoEtAlSasosRYVZx7XjB3FTKQj2zXSGxIFosW3eUvyoXhKWjivdcZVV8IjT31_brxRyLuo?encodeFailures=1&width=1623&height=913)
+![Configuraciones](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/configuraciones.jpg)
+
 ## Tecnologías implementadas
 
  - [JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
