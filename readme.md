@@ -16,7 +16,7 @@ En conclusión, esta aplicación web se presenta como una excelente herramienta 
 
 [VIDEO DEMO](https://1drv.ms/v/s!AkSiVfLGAjgsg-oPAXknbYKTc_mRFw?e=GfypeK)
 
-![Inicio de sesión](https://dsm01pap008files.storage.live.com/y4mJ4TcHDpa86vvnQPCVn3NLdWWPfS7ndMHzWTpI6n7rawTmlXPHrwnvE2qKQJkdsGcdLUS3jnfNqrA1GmTQi_nLLAIJ2lh6i7fjlL6D6RGX88gAX9569QdVlz5JwUhtzjEOz1aeYKw09m4FAOCSUB7_XA7xzX7FolTjDdr9Qi7KXyOB7dkdCd_IOnEzNxhBJm3xAO-qLBimUWYXPbYkKBL-j6kfcTqY9G62zdT-6iX-c8?encodeFailures=1&width=1623&height=913)
+![Inicio de sesión]([https://github.com/alexandercddev/miyamoto-readme/blob/master/public/login.jpg])
 
 ![Inicidentes](https://dsm01pap008files.storage.live.com/y4mqHWji2TXhD2hqkRR9yjykJWCGxm0HMLErjLtC1rIuyn1rT2bvnZe02J80vfecVYcL2Hu0ilOwTY_lzEImo3LdgEAEo6jjsKBsmaj8-Af55f7AlLx0HunOinp643v0XN1vkd6YVHbH7G6CCQiTRGIbtz_bV4IdV1gwy4SsKT-db4TFdVaD8WmzrG1Opp6cIJI0pQojw4YIwLoLnHC9IOQcKcFuRy4VRrkHIgTVrAl5aU?encodeFailures=1&width=1623&height=913)
 
