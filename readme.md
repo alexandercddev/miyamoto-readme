@@ -16,7 +16,7 @@ En conclusión, esta aplicación web se presenta como una excelente herramienta 
 
 [VIDEO DEMO](https://1drv.ms/v/s!AkSiVfLGAjgsg-oPAXknbYKTc_mRFw?e=GfypeK)
 
-![Inicio de sesión]([https://github.com/alexandercddev/miyamoto-readme/blob/master/public/login.jpg])
+![Inicio de sesión](https://raw.githubusercontent.com/alexandercddev/miyamoto-readme/master/public/login.jpg)
 
 ![Inicidentes](https://dsm01pap008files.storage.live.com/y4mqHWji2TXhD2hqkRR9yjykJWCGxm0HMLErjLtC1rIuyn1rT2bvnZe02J80vfecVYcL2Hu0ilOwTY_lzEImo3LdgEAEo6jjsKBsmaj8-Af55f7AlLx0HunOinp643v0XN1vkd6YVHbH7G6CCQiTRGIbtz_bV4IdV1gwy4SsKT-db4TFdVaD8WmzrG1Opp6cIJI0pQojw4YIwLoLnHC9IOQcKcFuRy4VRrkHIgTVrAl5aU?encodeFailures=1&width=1623&height=913)
 
